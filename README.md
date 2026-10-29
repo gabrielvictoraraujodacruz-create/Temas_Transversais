@@ -13,6 +13,10 @@ Repo da matéria de Temas Transversais. Ela é toda online e cada unidade só li
 | [`unidade_3_meio_ambiente.txt`](unidade_3_meio_ambiente.txt) | Recursos naturais, poluição, leis ambientais, Sisnama, sustentabilidade e normas ISO |
 | [`unidade_4_prevencao_drogas.txt`](unidade_4_prevencao_drogas.txt) | História das drogas, critérios de dependência, políticas públicas e níveis de prevenção |
 
+## 🏅 Certificado
+
+Terminei a matéria em 29/10/2026 (40h). O certificado de conclusão está aqui: [`certificado_temas_transversais.pdf`](certificado_temas_transversais.pdf)
+
 ## 🗺️ O que a matéria cobre
 
 1. Direitos Humanos e Questão da Diversidade
