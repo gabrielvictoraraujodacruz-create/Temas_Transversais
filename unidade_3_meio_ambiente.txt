@@ -1,0 +1,101 @@
+anotaçoes unidade 3 - questao ambiental e sustentabilidade
+
+
+POR QUE TEM PROBLEMA AMBIENTAL
+a populaçao cresce e precisa de agua, comida e energia, mais do que os ecossistemas aguentam
+mas nao e so populaçao: tem a parte tecnologica, industrial, cultural e a globalizaçao
+e o consumo, o pessoal quer sempre mais produto novo
+resumindo: qualidade do planeta = quantas pessoas + recursos + poluiçao + como a gente gerencia isso
+
+
+RECURSOS NATURAIS
+recurso natural = qualquer insumo que os seres vivos precisam pra se manter
+renovavel = volta pelo ciclo natural (agua, ar, biomassa, vento)
+  mas mesmo renovavel pode faltar ou estar ruim pra usar
+nao renovavel = nao volta
+  energetico: carvao, petroleo, uranio
+  nao energetico: ferro, calcario, argila (da pra reciclar mas nao volta a ser o original)
+
+ecossistema = meio biotico (seres vivos) + meio abiotico (minerais, clima, luz) + as relaçoes
+
+
+POLUIÇAO
+alteraçao que faz mal pra saude e pro bem estar do homem e dos outros seres
+pode ser global (efeito estufa, camada de ozonio), regional ou local
+alguma e natural e nao da pra evitar (vulcao)
+solo rural = fertilizante e agrotoxico -> usar na medida certa
+solo urbano = lixo das casas, comercio, industria e hospital
+ar:
+  CO2 -> efeito estufa e aquecimento global
+  oxidos de enxofre -> chuva acida
+  hidrocarbonetos (benzeno) -> cancerigeno
+
+
+DEGRADAÇAO
+estraga fauna e flora e diminui a biodiversidade, quase sempre por causa do homem
+alguns exemplos que achei importantes:
+  garimpo -> assoreamento dos rios
+  hidreletrica -> inunda floresta e area agricola
+  industria do petroleo -> vazamento e derramamento de oleo
+  cana -> queimada e fuligem
+o meio ambiente se limpa sozinho ate um ponto, depois disso precisa de intervençao planejada
+ja passamos 20% da capacidade de regeneraçao dos ecossistemas
+
+
+LEIS
+AIA (avaliaçao de impacto ambiental) = prevençao, os EUA fizeram obrigatoria em 1969
+lei 6.938/81 = politica nacional do meio ambiente, cria o SISNAMA e o CONAMA
+resoluçao conama 001/86 = cria o EIA e o RIMA
+uniao faz norma geral, estado e municipio so complementam (nao podem contrariar a uniao)
+
+CF art 225: todos tem direito ao meio ambiente ecologicamente equilibrado,
+e bem de uso comum do povo, e o dever de cuidar e do poder publico E da coletividade
+  obra que pode degradar precisa de estudo previo de impacto ambiental
+  quem explora minerio tem que recuperar a area
+  pessoa fisica ou juridica responde penal e administrativamente e ainda tem que reparar
+  patrimonio nacional: amazonia, mata atlantica, serra do mar, pantanal e zona costeira
+foi a primeira constituiçao a falar de meio ambiente
+plano diretor obrigatorio em cidade com mais de 20 mil habitantes
+
+outras leis: codigo florestal (hoje 12.651/12), educaçao ambiental 9.795/99,
+ANA 9.984/00, SNUC 9.985/00, estatuto da cidade 10.257/01
+
+SISNAMA:
+  superior = conselho de governo
+  consultivo e deliberativo = CONAMA
+  central = ministerio do meio ambiente
+  executor = IBAMA
+  seccionais = estaduais / locais = municipais
+
+
+SUSTENTABILIDADE
+consumo sustentavel = usar o recurso de forma racional, respeitar a capacidade de depurar
+e pensar nas geraçoes futuras
+principios: prevençao, precauçao, participaçao, melhoria continua e poluidor pagador
+(poluidor pagador = quem causou o dano paga)
+
+tripe: social + economico + ambiental, os tres com o mesmo peso
+organizaçao sustentavel = equidade social, prudencia ecologica e eficiencia economica
+
+
+RESPONSABILIDADE SOCIAL
+começa com a pobreza na idade moderna (na idade media era caridade cristã)
+inicio sec XX empresas fazendo escola e igreja / anos 30-40 direito trabalhista /
+anos 60 movimento ambientalista / anos 70-80 movimentos de mulheres, minorias, consumidores
+
+principios:
+  declaraçao universal (1948)
+  agenda 21 (rio 1992) = plano de açao pro desenvolvimento sustentavel
+  carta da terra (2000)
+  metas do milenio (ONU) = 8 metas
+  pacto global = direitos humanos, trabalho, meio ambiente e anticorrupçao
+
+normas (a ISO e de 1947, no brasil quem representa e a ABNT):
+  ISO 9001 = qualidade
+  ISO 14000 = gestao ambiental
+  OHSAS 18001 = saude e segurança do trabalho
+  NBR 16001 = responsabilidade social (essa certifica)
+  SA 8000 = direitos dos empregados com base na OIT
+  ISO 26000 = diretrizes de responsabilidade social (essa NAO certifica, e voluntaria)
+
+depois da revoluçao agricola e da industrial agora estamos na revoluçao da sustentabilidade
